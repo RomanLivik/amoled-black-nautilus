@@ -1,2 +1,24 @@
-# amoled-black-nautilus
-Black and white amoled theme for nautilus
+# Nautilus amoled theme
+This is nautilus black and white theme for your setup
+
+> This theme only for pannels, background, e.t.c. It doesn't choose a color of folders
+
+## Screenshots
+
+<img width="1918" height="1078" alt="изображение" src="https://github.com/user-attachments/assets/4f3cb92d-aba3-4a3a-a61e-24d294c86eea" />
+
+<img width="1917" height="1077" alt="изображение" src="https://github.com/user-attachments/assets/28c8da32-8db9-4962-8496-561a5c4dfd58" />
+
+<img width="1139" height="965" alt="изображение" src="https://github.com/user-attachments/assets/9730cbe6-14e0-4e99-bb06-f33c795967d9" />
+
+## Installation
+```
+git clone https://github.com/RomanLivik/amoled-black-nautilus
+cd amoled-black-nautilus
+cp -r gtk.css ~/.config/gtk-4.0
+```
+
+## How to change color of folders
+* You need install nwg-look (if you haven't got it)
+* You need install theme of icons
+* You beed change theese icons in nwg-look
