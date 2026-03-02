@@ -15,6 +15,7 @@ This is nautilus black and white theme for your setup
 * Gentoo systemd
 * Debian
 * Kali Linux
+
 It works stable on theese distros. If you install it on other distros you can have some bugs. Please read it before installation.
 
 ## Screenshots
