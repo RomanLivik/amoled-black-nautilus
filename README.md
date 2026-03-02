@@ -6,8 +6,16 @@ This is nautilus black and white theme for your setup
 ## Attention
 * This theme changes all GTK-base apps on your PC
 * You won't find theme which change only nautilus so deeply
-* Please make backup of your GTK config
+* Please make a backup of your GTK config before installation of this theme
 
+## Theme tested on
+* Arch Linux
+* Arch based distros
+* Gentoo openrc
+* Gentoo systemd
+* Debian
+* Kali Linux
+It works stable on theese distros. If you install it on other distros you can have some bugs. Please read it before installation.
 
 ## Screenshots
 
