@@ -3,6 +3,12 @@ This is nautilus black and white theme for your setup
 
 > This theme only for pannels, background, e.t.c. It doesn't choose a color of folders
 
+## Attention
+* This theme changes all GTK-base apps on your PC
+* You won't find theme which change only nautilus so deeply
+* Please make backup of your GTK config
+
+
 ## Screenshots
 
 <img width="1918" height="1078" alt="изображение" src="https://github.com/user-attachments/assets/4f3cb92d-aba3-4a3a-a61e-24d294c86eea" />
