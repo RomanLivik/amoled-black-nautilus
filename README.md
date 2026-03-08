@@ -30,10 +30,10 @@ It works stable on theese distros. If you install it on other distros you can ha
 ```
 git clone https://github.com/RomanLivik/amoled-black-nautilus
 cd amoled-black-nautilus
-cp -r gtk.css ~/.config/gtk-4.0
+cp gtk.css ~/.config/gtk-4.0
 ```
 
 ## How to change color of folders
 * You need install nwg-look (if you haven't got it)
 * You need install theme of icons
-* You beed change theese icons in nwg-look
+* You need change theese icons in nwg-look
